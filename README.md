@@ -21,7 +21,7 @@
 
 ## 💡 A Bit More About Me
 - ⚽ ♟️ In my free time, I love playing football or challenging myself in chess.
-- 🌱 Currently learning how to work with React Native, with a special focus on integrating Google Maps APIs.
+- 🌱 Currently learning how to work with **React Native**, with a special focus on integrating **Google Maps APIs**.
 - 🚀 Always open to collaborating on innovative projects and exploring new technologies!
 
 ---
